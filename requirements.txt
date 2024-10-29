@@ -1,6 +1,7 @@
-matplotlib==3.5.1
-networkx==2.8.2
-numpy==1.24.1
-streamlit==1.24.1
+streamlit
 setuptools
-python
+matplotlib
+networkx
+numpy
+scipy
+pandas
